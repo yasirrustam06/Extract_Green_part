@@ -1,4 +1,4 @@
-# Extract_Green_part
+# OutLine Green PArt
  A Python 3 script, that runs on Windows, and uses the OpenCV module; to automatically outline the green screen
 
 
